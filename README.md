@@ -1,4 +1,4 @@
-# Stoejbox_XYZ
+# StoejboxXYZ
 
 A desktop synthesizer with an interface that features an XYZ controller, allowing users to simultaneously control multiple
 sound parameters by moving fingers in the X-, Y- and Z-directions. It also includes a menu system that can be navigated using an encoder and push buttons, allowing the aforementioned
